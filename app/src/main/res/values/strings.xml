@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Project3Timer</string>
+    <string name="Start">Start</string>
+    <string name="Reset">Reset</string>
+    <string name="Pause">Pause</string>
+    <string name="startTimer">startTimer</string>
+    <string name="pauseTimer">pauseTimer</string>
+    <string name="resetTimer">resetTimer</string>
+</resources>
